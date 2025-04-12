@@ -1,0 +1,10 @@
+{
+    "best_params": {
+        "hidden_size": 256,
+        "learning_rate": 0.01,
+        "l2_lambda": 0.001,
+        "lr_decay": 0,
+        "activation": "relu"
+    },
+    "best_model_path": "./cv_pj/saved_models\\model_h256_lr0.01_l20.001_decay0_relu.pkl"
+}
